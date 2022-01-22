@@ -5,6 +5,7 @@ body {
   font-size: 18px;
   line-height: 20px;
   background-color: #000;
+  overflow-x: hidden;
 }
 
 h1 {
@@ -56,6 +57,10 @@ p {
   margin-top: 0px;
   margin-bottom: 5px;
   font-family: Roboto, sans-serif;
+}
+
+nav {
+  margin-left: 200px;
 }
 
 .button {
@@ -759,7 +764,7 @@ p {
   }
 
   .form-header {
-    margin-top: 20px;
+    margin: -440px auto auto 34%;
     text-align: center;
     color: white;
   }
@@ -772,7 +777,7 @@ p {
     width: 85%;
     height: 400px;
     border-radius: 15px;
-    margin: 0px auto 0px auto;
+    margin: auto auto 0px 27%;
     color: white;
     background-color: #000;
 }
@@ -840,6 +845,17 @@ input[type=submit]:hover {
     opacity: .8;
     transition: .2s ease all;
     cursor: pointer;
+}
+
+.intro-vid {
+  margin: 50px auto 50px 160px;
+  text-align: center;
+  width: 40%;
+  color: white;
+}
+
+#intro-div-id {
+  margin: auto;
 }
 
 footer {

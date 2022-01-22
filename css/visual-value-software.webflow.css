@@ -292,7 +292,7 @@ p {
 .slide {
   padding-top: 80px;
   padding-bottom: 80px;
-  background-image: url('images/shutterstock_1689001690.jpg');
+  background-image: url('https://piercew25.github.io/VisualValue/images/shutterstock_1689001690.jpg');
   background-position: 60% 60%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -300,11 +300,11 @@ p {
 }
 
 .slide._2 {
-  background-image: url('images/shutterstock_1444284257.jpg');
+  background-image: url('https://piercew25.github.io/VisualValue/images/shutterstock_1444284257.jpg');
 }
 
 .slide._3 {
-  background-image: url('images/shutterstock_1773137174.jpg');
+  background-image: url('https://piercew25.github.io/VisualValue/images/shutterstock_1773137174.jpg');
 }
 
 .process-titles {

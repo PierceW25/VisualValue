@@ -874,6 +874,13 @@ nav {
     width: 600px;
   }
 
+  .form-container h6 {
+    font-size: 18px;
+    color: grey;
+    margin-top: 40px;
+    margin-bottom: -39px;
+  }
+
   form {
     width: 600px;
     min-width: 400px;
@@ -939,7 +946,6 @@ input[type=submit] {
    border-radius: 10px;
    font-size: 1.3rem;
    padding: 20px;
-   
    transition: .2s ease all;
 }
 

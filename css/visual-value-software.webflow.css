@@ -57,7 +57,8 @@ h6 {
 p {
   margin-top: 0px;
   margin-bottom: 5px;
-  font-family: Roboto, sans-serif;
+  font-size: 19px;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 nav {
@@ -296,9 +297,10 @@ nav {
 }
 
 .slide {
+  margin-top: -10px;
   padding-top: 80px;
   padding-bottom: 80px;
-  background-image: url('../images/shutterstock_1689001690.jpg');
+  background-image: url('../images/slide1.jpg');
   background-position: 60% 60%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -306,11 +308,11 @@ nav {
 }
 
 .slide._2 {
-  background-image: url('../images/shutterstock_1444284257.jpg');
+  background-image: url('../images/slide2.jpg');
 }
 
 .slide._3 {
-  background-image: url('../images/shutterstock_1773137174.jpg');
+  background-image: url('../images/slide3.jpg');
 }
 
 .process-titles {

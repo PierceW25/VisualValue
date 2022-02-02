@@ -829,6 +829,10 @@ nav {
 }
 /* Custom Classes */
 
+  .grey h4 {
+    margin-top: -20px;
+  }
+
   .project-background {
     background-color: #000;
     text-align: center;
